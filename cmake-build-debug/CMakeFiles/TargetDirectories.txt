@@ -1,0 +1,3 @@
+D:/Downloads/projeto04/projeto04/cmake-build-debug/CMakeFiles/projeto04.dir
+D:/Downloads/projeto04/projeto04/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Downloads/projeto04/projeto04/cmake-build-debug/CMakeFiles/rebuild_cache.dir
